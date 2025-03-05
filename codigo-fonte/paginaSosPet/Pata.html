@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PATA - Pronto - Atendimento e Tratamento Animal</title>
+  <link rel="stylesheet" href="Unidades.css">
+  <link rel="icon" href="/codigo-fonte/midias/icon2.png">
+</head>
+<body>
+  <body>
+    <header>        
+        <h1><a class="logo" href="/index.html"><strong>CuidaPet</strong></a></h1>
+            <div class="caixa-pesquisa">
+                <input type="text" class="texto-pesquisa" placeholder="Pesquisar...">
+                <a class="btn-pesquisa">
+                <img class="lupabranca" src="/codigo-fonte/midias/lupabranca.png" alt="lupa fundo branco" width="40px" height="25px">
+                </a>
+            </div>
+            <div>
+            <a class="btn-perfil" href="/codigo-fonte/meu_perfil/meuperfil.html">
+                <img class="icon-perfil" src="/codigo-fonte/midias/icon.perfil.png"  alt="icon perfil" width="auto" height="auto">
+            </a>
+        </div>
+    </header>
+    <main>
+      <section class="menu">
+        <div class="faixa-amarela">
+          <img class="animaisnomenu" src="/codigo-fonte/midias/pets.barra.png" alt="animaisnomenu">
+          <nav class="paginas-principais">
+            <div class="menu-item">
+              <a href="#"><strong>Meu pet</strong></a>
+              <div class="submenu">
+                <a href="#cuidados" class="bold">Cuidados</a>
+                <a href="/codigo-fonte/Meu Pet/meupet.html">Cães</a>
+                <a href="#gatos">Gatos</a>
+                <a href="#exoticos">Animais exóticos</a>
+                <a href="#adotei">Adotei, e agora?</a>
+              </div>
+            </div>
+            <a href="/codigo-fonte/paginaSosPet/SosPetView.html"><strong>SOS Pet</strong></a>
+            <a href="/codigo-fonte/paginaForum/Forum.html"><strong>Fórum</strong></a>
+            <a href="/codigo-fonte/paginaAdoção/adocao.html">Adoção<strong></strong></a>
+          </nav>
+        </div>
+      </section>
+    <section class="navegacao">
+      <p>Início > SOS Pet > PATA - Pronto - Atendimento e Tratamento Animal</p>
+    </section>
+
+    <main class="conteudo">
+      <div class="secao-informacoes">
+        <img src="/codigo-fonte/midias/pata.jpg"alt="PATA - Pronto - Atendimento e Tratamento Animal">
+        <h2>PATA - Pronto - Atendimento e Tratamento Animal</h2>
+        <h3>São Sebastião - SP</h3>
+
+        <div class="bloco-informacoes">
+          <div class="item-informacoes">
+            <h4>📍 Localização</h4>
+            <p>
+              R. Dr. Deodato Wertheimer, 40 - Vila Mogilar, Mogi das Cruzes - SP, 08773-090
+            </p>
+          </div>
+          <div class="item-informacoes">
+            <h4>🕒 Horário de Funcionamento</h4>
+            <p>
+              Horário de Funcionamento: de segunda a sexta-feira das 08:00h às 17:00h. Atendimento com retirada de senha às 08:00h.
+            </p>
+          </div>
+          <div class="item-informacoes">
+            <h4>📄 Documentos para Atendimento</h4>
+            <p>
+              Compareça à unidade com o animal e apresente RG, CPF e comprovante de endereço do Município de Mogi da Cruzes
+            </p>
+          </div>
+        </div>
+
+        <!-- Div para exibir o mapa -->
+        <div id="mapa"></div>
+      </div>
+    </main>
+
+    <footer>
+      <p>&copy; 2024 CuidaPet. Todos os direitos reservados.</p>
+    </footer>
+
+    <!-- Botão flutuante do WhatsApp -->
+    <a
+      href="https://wa.me/5511917064741?text=Olá! Gostaria de mais informações sobre a unidade."
+      class="whatsapp-button"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+       src="/codigo-fonte/midias/whatsapp.png"
+        alt="Entre em contato pelo WhatsApp"
+        class="whatsapp-icon"
+      />
+    </a>
+
+    <!-- API do Google Maps -->
+    <script
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFwajWgYBUstCVDWItr9vx_IGPlzxcass&callback=initMap"
+    ></script>
+
+    <!-- Script para iniciar o mapa -->
+    <script>
+      let map; 
+
+      function initMap() {
+        const mapElement = document.getElementById("mapa");
+
+        // Limpa para evitar sobreposição
+        mapElement.innerHTML = "";
+
+        if (!map) {
+          // Verifica se o mapa já foi iniciado
+
+          const location = {
+            lat: -23.799919855854398,
+            lng: -45.40057487710788,
+          };
+          map = new google.maps.Map(mapElement, {
+            zoom: 15,
+            center: location,
+          });
+
+          new google.maps.Marker({
+            position: location,
+            map: map,
+            title: "PATA - Pronto - Atendimento e Tratamento Animal",
+          });
+        }
+      }
+    </script>
+  </body>
+</html>
