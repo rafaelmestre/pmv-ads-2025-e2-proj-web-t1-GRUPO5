@@ -1,0 +1,24 @@
+cff-version: 1.0.1
+message: Sistema Web para informações sobre cuidados com pet e dados sobre unidades públicas de atendimento veterinário.
+title: CuidaPet
+authors:
+  - family-names: Pereira
+    given-names: Danielle Cristina
+  - family-names: Hermógenes do Nascimento
+    given-names: Lucas 
+  - family-names: Nunes Amaral de Andrade
+    given-names: Nicholas
+  - family-names: Mestre dos Anjos Araujo
+    given-names: Rafael
+  - name-suffix: Professora
+    affiliation: PUC Minas
+    family-names: Alves Nogueira
+    given-names: Simone
+keywords:
+  - Pet
+  - Unidades Veterinárias Públicas
+  - Cuidado animal
+repository-code: https://https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e1-proj-web-t3-cuidapet/
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-11-24
