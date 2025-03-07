@@ -5,21 +5,18 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2"> Tutor de animais domésticos e não convencionais </th>
+<th colspan="2"> ATIVISTA AMBIENTAL</th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td> 
-<td width="600px">Pessoa responsável pelo cuidado do animal</td>
+<td width="600px">Ana, ativista ambiental. 30 anos.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>1- Acesso a conteúdo que auxilie em seu dia a dia em com o pet seja ele convencional ou não. 
+<td>1- 1 - Informações claras sobre dias e locais de coleta seletiva
+2 - Instruções sobre descarte de materiais específicos como; eletrônicos, pilhas, óleo, lâmpada. 
 
-2- Encontrar clínicas veterinárias públicas ou de baixo custo em sua localidade. 
-
-3- Acesso a conteúdo que auxilie nos cuidados iniciais do seu pet recém adquirido. 
-
-4- Acesso a fórum onde possa trocar experiências com outros tutores. </td>
+2- Encontrar clínicas veterinárias públicas ou de baixo custo em sua localidade. </td>
 </tr>
 </tbody>
 </table>
@@ -27,17 +24,66 @@
 <table> 
 <tbody>
 <tr align=center>
-<th colspan="2">  Estudantes da área da saúde </th>
+<th colspan="2">  MUNÍCIPE </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">Pessoas que estudam nas áreas da Biologia, Medicina veterinária e humana </td>
+<td width="600px">Bernardo, morador de área de risco. 25 anos. </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>1- Acesso a informações confiáveis sobre medicina veterinária, índices gerais sobre animais e tutores.  
+<td>1 -  Sistema que permita de maneira rápida  reportar alagamentos, deslizamentos na sua região.
+2 - Notificação de áreas afetadas.</td>
+</tr>
+</tbody>
+</table>
 
-2- Ter acesso a contatos de clínicas veterinárias seja por localização ou rede socias.  </td>
+<table> 
+<tbody>
+<tr align=center>
+<th colspan="2">  MOTORISTA </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">José, motorista de aplicativo. 46 anos. </td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>1 - Notificar seus colegas sobre obstáculos e irregularidades no caminho que trafega diariamente, como buracos na pista, entulho, animais no trânsito, etc.
+2 - Notificar o poder público sobre as condições acima para que medidas sejam tomadas</td>
+</tr>
+</tbody>
+</table>
+
+<table> 
+<tbody>
+<tr align=center>
+<th colspan="2">  SERVIDOR PÚBLICO </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Ricardo, servidor público do IBAMA. 46 anos. </td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>1 - Monitorar denúncias e alertas de infrações ambientais feitas pela população, tais como lixo jogado em local impróprio, poluição das vias, animais soltos na pista.</td>
+</tr>
+</tbody>
+</table>
+
+<table> 
+<tbody>
+<tr align=center>
+<th colspan="2">  COMERCIANTE </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Rafaela. Comerciante. 42 anos. </td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>1 - Notificar o poder público sobre irregularidades e infrações próximas ao seu ponto comercial como lixo em local impróprio, a fim de que estas sejam resolvidas pelo órgão responsável
+2 - Acompanhar o andamento da sua notificação</td>
 </tr>
 </tbody>
 </table>
