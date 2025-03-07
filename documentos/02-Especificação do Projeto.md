@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>1- 1 - Informações claras sobre dias e locais de coleta seletiva
+<td>1 - Informações claras sobre dias e locais de coleta seletiva
 2 - Instruções sobre descarte de materiais específicos como; eletrônicos, pilhas, óleo, lâmpada. 
 
 2- Encontrar clínicas veterinárias públicas ou de baixo custo em sua localidade. </td>
