@@ -14,8 +14,8 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 <ul>
 <li> Scrum Master: Nicholas Nunes.</li>
 <li> Product Owner: Rafael Mestre. </li>
-<li> Equipe de Desenvolvimento: Danielle Cristina, Lucas Nascimento, Nicholas Nunes , Rafael Mestre.</li>
-<li> Equipe de Design: Danielle Cristina, Lucas Nascimento.</li>
+<li> Equipe de Desenvolvimento: Gabriel Diniz, Lucas Nascimento, Nicholas Nunes , Rafael Mestre, Gustavo.</li>
+<li> Equipe de Design: Gustavo, Lucas Nascimento.</li>
 </ul>
 
 
