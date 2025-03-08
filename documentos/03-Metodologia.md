@@ -28,7 +28,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 <figure> 
-  <img src= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e1-proj-web-t3-cuida-pet/blob/main/documentos/img/Captura%20de%20tela%202024-09-09%20201514.png"
+  <img src= "https://github.com/rafaelmestre/pmv-ads-2025-e2-proj-web-t1-GRUPO5/blob/main/documentos/IMG/Captura%20de%20tela%202025-03-08%20195611.png"
 </figure> 
   
 
